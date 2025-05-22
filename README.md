@@ -1,2 +1,2 @@
 # GPU-puzzles
-Implementation of cuda GPU Puzzlers in Numba.
+Implementation of CUDA GPU Puzzlers in Numba.
